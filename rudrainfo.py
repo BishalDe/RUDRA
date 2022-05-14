@@ -1,7 +1,7 @@
 """
 Created by bishal on 28-04-2022
 The module name is rudrainfo - To import it just type 'import rudrainfo'
-This module shows information about the RUDRA Team.
+This module shows information about the RUDRA Team...!
 """
 
 
